@@ -34,7 +34,7 @@ downloads finish.
 
 ## Download
 
-Get `Housekeeper-2.0.0-win-x64.zip` from the [Releases](../../releases) page, unzip it anywhere
+Get `Housekeeper.zip` from the [Releases](../../releases) page, unzip it anywhere
 (for example `C:\Tools\Housekeeper`) and run `Housekeeper.exe`. You don't need to install .NET.
 
 Needs 64-bit Windows 10 or 11.
