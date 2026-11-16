@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "Housekeeper": {
+      "commandName": "Project"
+    },
+    "Housekeeper (as started by Windows)": {
+      "commandName": "Project",
+      "commandLineArgs": "--startup"
+    },
+    "Housekeeper (sandbox)": {
+      "commandName": "Project",
+      "commandLineArgs": "--sandbox sandbox"
+    }
+  }
+}
